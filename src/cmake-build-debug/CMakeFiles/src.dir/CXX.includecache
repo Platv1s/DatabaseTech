@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/RPQTree.cpp
+iostream
+-
+RPQTree.h
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/RPQTree.h
+
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/SimpleEstimator.cpp
+SimpleGraph.h
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/SimpleGraph.h
+SimpleEstimator.h
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/SimpleEstimator.h
+
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/SimpleEvaluator.cpp
+SimpleEstimator.h
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/SimpleEstimator.h
+SimpleEvaluator.h
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/SimpleEvaluator.h
+
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/SimpleGraph.cpp
+SimpleGraph.h
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/SimpleGraph.h
+
+C:/Study/Data science 2017 - 2018/Database technology/DatabaseTech/src/main.cpp
+iostream
+-
+chrono
+-
+SimpleGraph.h
+-
+Estimator.h
+-
+SimpleEstimator.h
+-
+SimpleEvaluator.h
+-
+
